@@ -1,0 +1,69 @@
+Page 1
+ASUTOSH NAYAK
+Senior Java Backend Engineer | Java | Spring Boot | Microservices | AWS
+Bhubaneswar, Odisha | +91 63721 58889 | nayakasutosh176@gmail.com | linkedin.com/in/asutosh-nayak-prog
+SUMMARY
+Java Backend Engineer with 4+ years designing, building, and operating production applications end-to-end using Java 
+8+, Spring Boot, and MySQL on AWS. Hands-on across the full SDLC: RESTful API design, microservices-based 
+systems, Spring Security, JPA/Hibernate persistence and transaction tuning, JUnit testing, and code-quality gates. 
+Deploys and operates services on AWS (EC2, ALB, RDS, S3, CloudFront, CloudWatch) and diagnoses production 
+issues independently. Full-stack range with Angular; known for converting ambiguous requirements into clear designs 
+and delivering with minimal handholding.
+CORE SKILLS
+ Core Java (8+): Collections Framework, Streams & Lambdas, Exception Handling, Concurrency & Multithreading 
+(ExecutorService), OOP design principles, refactoring legacy code
+ Spring Ecosystem: Spring Boot, Spring Security (JWT authentication & authorization), Spring Cloud, Spring Data 
+JPA, Spring JDBC, Hibernate ORM, dependency injection, bean lifecycle, transaction management
+ Microservices & APIs: Microservices architecture, RESTful API design best practices, inter-service communication, 
+third-party service integration, API security, WebSocket, RabbitMQ, Apache Kafka
+ AWS: EC2, Application Load Balancer (ALB), RDS (MySQL), S3, CloudFront, Route 53, API Gateway, IAM, VPC & 
+security groups, Secrets Manager, CloudWatch (logs, metrics, alerts)
+ Databases: MySQL - normalization, schema design, complex queries, indexing & query-performance 
+troubleshooting
+ Frontend: Angular, TypeScript, PrimeNG, Mapbox GL JS, Highcharts, HTML5, CSS3
+ Testing & Quality: JUnit, SonarQube, code reviews, debugging, production troubleshooting
+ Practices: Agile/Scrum, clean code, technical documentation, stakeholder requirement clarification, continuous 
+improvement
+EXPERIENCE
+Cozentus - Assistant Manager, Java (Senior Developer)
+Sept 2024 - Present | Bhubaneswar
+Risk Monitor - global logistics risk-management platform for PSA BDP (riskmonitor.bdpsmart.com)
+ Developing and maintaining backend services in a microservices architecture (Java 8+, Spring Boot) that ingest real-
+time risk events from multiple authorized external data sources and map them to live shipments across vessels, 
+ports, and warehouses.
+ Built the internal impact-evaluation logic that determines whether each risk event affects any tracked shipment or 
+asset - the core decision support used by operations teams.
+ Design and expose secure, performant RESTful APIs with clean service layering; tuned JPA/Hibernate fetch 
+strategies and transaction boundaries to keep high-volume geospatial lookups fast.
+ Deploy and operate the platform on AWS in production: Spring Boot services on EC2 behind an ALB, managed 
+MySQL on RDS, assets on S3 + CloudFront, DNS via Route 53, secrets in Secrets Manager, access governed by 
+IAM, VPC, and security groups, observability through CloudWatch logs, metrics, and alerts.
+ Hardened API security end-to-end - token-based authorization, encrypted sensitive fields, tightened cross-origin 
+resource sharing (CORS) policies.
+ Drive quality across the team: lead code reviews, enforce development standards, contribute reusable components 
+and technical documentation.
+ Built geospatial intelligence features in Angular - Mapbox shipment/asset plotting, country-level risk heatmaps, and 
+Highcharts trend/distribution dashboards for decision-making.
+ Work in Agile ceremonies with cross-functional teams to clarify requirements and incrementally ship client-facing 
+features.
+---PAGE---
+Page 2
+Ohhpro - Full Stack Developer
+Mar 2022 - Sept 2024 | Bhubaneswar
+Ohhpro Junction - super-app platform for residential societies: visitor management, maintenance fee collection, notice 
+board, and more
+ Core member of the team that built and scaled a platform actively used by 100+ societies, reliably processing 
+thousands of requests daily with high reliability.
+ Developed responsive Angular frontends and Spring Boot backends; designed RESTful APIs and integrated external 
+services - Razorpay (payments), Exotel (IVR calling), MSG Club (SMS), HubSpot (CRM sync).
+ Implemented real-time communication with WebSocket and push notifications via Firebase Cloud Messaging (FCM).
+ Offloaded long-running work onto ExecutorService thread pools, keeping request threads responsive under load.
+ Secured APIs using JWT tokens, AES encryption for sensitive data, and CORS policies.
+ Built the persistence layer with Spring Data JPA, Hibernate, and Spring JDBC over normalized MySQL schemas; 
+wrote efficient queries and resolved slow-query bottlenecks.
+ Wrote JUnit unit tests to validate backend behavior; troubleshot defects and supported production issue resolution.
+EDUCATION
+ B.Sc. Botany - Utkal University, Bhubaneswar, 2020
+ Full Stack Java Development (professional training) - Qspiders, Bhubaneswar, 2021
+CERTIFICATIONS
+ AWS Certified Developer - Associate - In Progress, expected 2026
